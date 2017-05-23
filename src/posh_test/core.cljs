@@ -1,7 +1,6 @@
 (ns posh-test.core
   (:require [reagent.core :as r]
             [posh.reagent :as p]
-
             [datascript.core :as d]))
 
 
